@@ -7,7 +7,7 @@ Describes the purpose of the project. It must be a concise description and shoul
 Describe the boundaries of the System. What are we talking about in this document?
 
 ## Definitions, Acronyms and Abbreviations
-- **Example: ** a thing characteristic of its kind or illustrating a general rule.
+- **Example:** a thing characteristic of its kind or illustrating a general rule.
 
 ## References
 - Reference about Software Engineer. https://en.wikipedia.org/wiki/Software_engineering
