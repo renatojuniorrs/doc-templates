@@ -25,7 +25,7 @@ Diagrams and UMLs
 - Create a user
 - Delete a user
 
-## Architecturally-Significant Use Cases
+# Architecturally-Significant Use Cases
 Use case UML
 
 # Database
@@ -36,3 +36,5 @@ Kubernetes...
 
 # Size and Performance
 Size and performance requiremenrs
+
+# Troubleshooting
